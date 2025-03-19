@@ -21,7 +21,7 @@ A clean and modern responsive landing page built using HTML and CSS. This projec
    `git clone https://github.com/yourusername/responsive-landing-page.git`
 2. Open the `index.html` file in your browser
 
-*📌 Project Status
+📌 Project Status
 ✅ Completed  
 📁 Internship Task – Codsoft Web Development Domain
 
